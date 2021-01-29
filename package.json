@@ -1,0 +1,19 @@
+{
+  "name": "esbuild_my_workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.8.36",
+    "essass": "^1.0.12",
+    "live-server": "^1.2.1",
+    "node-watch": "^0.7.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
